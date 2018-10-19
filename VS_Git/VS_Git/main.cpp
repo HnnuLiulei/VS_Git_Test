@@ -12,4 +12,6 @@ int main(int argc, char *argv[])
 	int test111 = 0;
 	int y = 0;
 	return a.exec();
+	
+	int yy = 123;
 }

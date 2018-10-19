@@ -7,4 +7,6 @@ VS_Git::VS_Git(QWidget *parent)
 	int test = 000;
 	int test11 = 0;
 	int x = 0;
+	
+	int y = 123;
 }
